@@ -1,0 +1,158 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.secao {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+ .secao-primeira{
+    background-color: whitesmoke;
+}
+
+.secao-primeira img {
+    width: 150px;
+}
+
+.secao-primeira p {
+    margin-top: 15px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.secao-primeira a{
+    font-size: 18px;
+    color: #1c1c1c;
+    border-bottom: 2px solid #1c1c1c;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.secao-segunda img{
+    width: 100%;
+    margin-top: 50px;
+    padding-top: 0;
+}
+
+.secao-terceira h1{
+    color: #1c1c1c;
+    margin-bottom: 5px;
+}
+
+.secao-terceira .texto-subtitulo{
+    color: #2c82d1;
+    margin-top: 0;
+    font-weight: normal;
+}
+
+.secao-terceira img{
+    width: 450px;
+}
+
+.secao-terceira p{
+    text-align: center;
+}
+.texto-azul {
+    color: blue;
+    font-weight: bolder;
+}
+
+.secao-quarta {
+    background-color: rgb(250, 216, 216);
+}
+
+.secao-quarta h2{
+    color: #ffffff;
+    font-size: 28px;
+    line-height: 42px;
+}
+
+.secao-quarta p{
+    color:  #1c1c1c;
+    font-size: 22px;
+    line-height: 42px;
+    text-align: center;
+}
+
+.secao-quarta ul {
+    margin: 40px auto;
+    margin-left: 200px;
+}
+
+.secao-quarta ul li{
+    color: #1c1c1c;
+    line-height: 42px;
+    font-size: 22px;
+    text-align: left;
+}
+
+.texto-marrom{
+    color: brown;
+}
+
+.secao-quinta h2{
+    font-size: 28px;
+    line-height: 42px;
+}
+
+.secao-quinta img {
+    width: 450px;
+}
+
+
+.secao-sexta{
+    background-color: rgb(250, 216, 216);
+}
+
+.secao-sexta h2{
+    color: #ffffff;
+    font-size: 28px;
+    line-height: 42px;
+}
+
+.secao-sexta p {
+    background-color: #1c1c1c;
+    color: #ffffff;
+    padding: 15px;
+    margin-top: 30px;
+}
+
+.secao-sexta ul{
+    margin: 40px auto;
+    width: 210px;
+}
+
+.secao-sexta ul li{
+    margin-top: 15px;
+    font-size: 18px;
+    text-align: center;
+    list-style: none;
+}
+
+.secao-sexta ul li a{
+    background-color: #ffffff;
+    color: #2c82d1;
+    padding: 2px 5px;
+    border-radius: 5px;
+}
+
+iframe {
+    width: 800px;
+    height: 350px;
+}
+
+p {
+    margin: 10px auto;
+    width: 980px;
+    text-align: justify;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+span {
+    font-weight: bold;
+}
